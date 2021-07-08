@@ -40,14 +40,15 @@ The following animation shows the application's GET routes to return all categor
 
 The following animation shows the application's GET routes to return a single category, a single product, and a single tag being tested in Insomnia Core:
 
-![In Insomnia Core, the user tests “GET tag by id,” “GET Category by ID,” and “GET One Product.”](./Assets/13-orm-homework-demo-02.gif)
+![In Insomnia Core, the user tests “GET tag by id,” “GET Category by ID,” and “GET One Product.”]
 
 The following animation shows the application's POST, PUT, and DELETE routes for categories being tested in Insomnia Core:
 
-![In Insomnia Core, the user tests “DELETE Category by ID,” “CREATE Category,” and “UPDATE Category.”](./Assets/13-orm-homework-demo-03.gif)
+![In Insomnia Core, the user tests “DELETE Category by ID,” “CREATE Category,” and “UPDATE Category.”]
 
 Your walkthrough video should also show the POST, PUT, and DELETE routes for products and tags being tested in Insomnia Core.
 
+Full video here: https://share.getcloudapp.com/QwuAonZw
 ## Getting Started
 
 You’ll need to use the [MySQL2](https://www.npmjs.com/package/mysql2) and [Sequelize](https://www.npmjs.com/package/sequelize) packages to connect your Express.js API to a MySQL database and the [dotenv](https://www.npmjs.com/package/dotenv) package to use environment variables to store sensitive data.
