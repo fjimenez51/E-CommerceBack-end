@@ -36,7 +36,8 @@ THEN I am able to successfully create, update, and delete data in my database
 
 The following animation shows the application's GET routes to return all categories, all products, and all tags being tested in Insomnia Core:
 
-![In Insomnia Core, the user tests “GET tags,” “GET Categories,” and “GET All Products.”.](./Assets/13-orm-homework-demo-01.gif)
+![In Insomnia Core, the user tests “GET tags,” “GET Categories,” and “GET All Products.”.](./assets/getCategory.png) (./assets/getProducts.png) (./assets/getTags.png)
+
 
 The following animation shows the application's GET routes to return a single category, a single product, and a single tag being tested in Insomnia Core:
 
@@ -44,7 +45,7 @@ The following animation shows the application's GET routes to return a single ca
 
 The following animation shows the application's POST, PUT, and DELETE routes for categories being tested in Insomnia Core:
 
-![In Insomnia Core, the user tests “DELETE Category by ID,” “CREATE Category,” and “UPDATE Category.”]
+![In Insomnia Core, the user tests “DELETE Category by ID,” “CREATE Category,” and “UPDATE Category.”] (./assets/createCategory.png)(./assets/createTag.png)(./assets/createProduct.png)
 
 Your walkthrough video should also show the POST, PUT, and DELETE routes for products and tags being tested in Insomnia Core.
 
