@@ -36,7 +36,7 @@ THEN I am able to successfully create, update, and delete data in my database
 
 The following animation shows the application's GET routes to return all categories, all products, and all tags being tested in Insomnia Core:
 
-![In Insomnia Core, the user tests “GET tags,” “GET Categories,” and “GET All Products.”.]
+![In Postman, the user tests “GET tags,” “GET Categories,” and “GET All Products.”.]
 ![GET Producs](./assets/getCategory.png) 
 ![GET Products](./assets/getProducts.png) 
 ![GET Tags](./assets/getTags.png)
@@ -244,11 +244,5 @@ This homework is graded based on the following criteria:
 
 * Repository contains quality readme with description and a link to a walkthrough video.
 
-## Review
 
-You are required to submit BOTH of the following for review:
-
-* A walkthrough video demonstrating the functionality of the application and all of the acceptance criteria being met.
-
-* The URL of the GitHub repository. Give the repository a unique name and include a readme describing the project.
 
