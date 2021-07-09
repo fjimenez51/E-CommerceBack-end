@@ -44,11 +44,11 @@ The following animation shows the application's GET routes to return all categor
 
 The following animation shows the application's GET routes to return a single category, a single product, and a single tag being tested in Insomnia Core:
 
-![In Insomnia Core, the user tests “GET tag by id,” “GET Category by ID,” and “GET One Product.”]
+![In Postman, the user tests “GET tag by id,” “GET Category by ID,” and “GET One Product.”]
 
 The following animation shows the application's POST, PUT, and DELETE routes for categories being tested in Insomnia Core:
 
-![In Insomnia Core, the user tests “DELETE Category by ID,” “CREATE Category,” and “UPDATE Category.”.] 
+![In Postman, the user tests “DELETE Category by ID,” “CREATE Category,” and “UPDATE Category.”.] 
 ![Create a category](./assets/createCategory.png)
 ![Create a tag](./assets/createTag.png)
 ![Create a product](./assets/createProduct.png)
